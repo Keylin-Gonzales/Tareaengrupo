@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+.flexbox{
+display: flex;
+border: 2px solid #FE2EF7;
+background-color:#2ECCFA;
+padding: 100px;
+width: 130%;
+}
+#lila{
+padding: 70px;
+margin: 70px;
+background-color:#9F81F7;
+}
+#rosa{
+padding: 70px;
+margin: 70px;
+background-color:#F781F3;
+}
+#naranja{
+padding: 70px;
+margin: 70px;
+background-color:#FE9A2E;
+}
+#celeste{
+padding: 70px;
+margin: 70px;
+background-color:#81F7F3;
+}
+#azul{
+padding: 70px;
+margin: 70px;
+background-color:#2E64FE;
+}
